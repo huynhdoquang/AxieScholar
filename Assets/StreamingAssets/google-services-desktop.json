@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "12548777762",
+    "firebase_url": "https://find-the-pair-f5da8.firebaseio.com",
+    "project_id": "find-the-pair-f5da8",
+    "storage_bucket": "find-the-pair-f5da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12548777762:android:b66960d2638011c3",
+        "android_client_info": {
+          "package_name": "com.hyunke.findthepair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12548777762-2j11ikddliaof5tl9rc1nosmka7a3jkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyunke.findthepair",
+            "certificate_hash": "76929379e25154aadb9b145a4c929993e9814b42"
+          }
+        },
+        {
+          "client_id": "12548777762-r494iagc82ip7li3lupha1ff2hf90gdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRoatHs-k3uAdLEUs5cf6W-X3DJeqO4F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12548777762-r494iagc82ip7li3lupha1ff2hf90gdb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12548777762-u6h2mg70dte7f62hcgrdvrnhcl8fed9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hyunke.findthepair"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8283974544590508~7974947739"
+    }
+  ],
+  "configuration_version": "1"
+}
